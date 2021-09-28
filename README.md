@@ -1,4 +1,4 @@
-# Galatic Geckos Solanart Rank ✅
+# Galactic Geckos Solanart Rank ✅
 ![Logo](https://github.com/reguengos/galaticgeckosolanartrank/blob/main/logoggs.PNG)
 
 Disclaimer: i am not affiliate with solanart nor GGSC⛔
