@@ -1,4 +1,8 @@
-# galaticgeckosolanartrank
+# Galatic Geckos Solanart Rank ✅
+![Logo](https://github.com/reguengos/galaticgeckosolanartrank/blob/main/logoggs.PNG)
+Disclaimer: i am not affiliate with solanart nor GGSC⛔
+
+# My geckos :D
 
 this works with Chrome extension:
 Javascript Injector
@@ -10,10 +14,9 @@ https://chrome.google.com/webstore/detail/javascript-injector/ejnccfcackblkelbaf
 2- Navigate to Solanart galatic gecko 
 https://solanart.io/collections/galacticgeckospacegarage
 
-3- activate extension
+3- activate and use extension!
 
-
-Paste the following code:
+Paste the following code:⚡
 ```
 fetch('https://assets.galacticgeckos.app/assets/t2r.json')
 .then(res => res.json())
@@ -35,3 +38,5 @@ el.textContent = "ID:"+replaced+"|rank:"+rank
 .catch(err => { throw err });
 
 ```
+
+![Instructions](https://github.com/reguengos/galaticgeckosolanartrank/blob/main/instructions.PNG)
