@@ -48,5 +48,8 @@ el.textContent = "ID:"+replaced+"|rank:"+rank
 
 # Done! Start buying with confidence! ✨✨✨✨✔🎁
 
+# pay me a cofee if you feel it deserves :
+AJpuaH2Ke13VoMrk8MRCE693yMWMLyTBf2e2J48Pzz7j
+
 
 
