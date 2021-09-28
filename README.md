@@ -1,13 +1,15 @@
 # Galatic Geckos Solanart Rank ✅
 ![Logo](https://github.com/reguengos/galaticgeckosolanartrank/blob/main/logoggs.PNG)
+
 Disclaimer: i am not affiliate with solanart nor GGSC⛔
 
 # My geckos :D
+![Logo](https://github.com/reguengos/galaticgeckosolanartrank/blob/main/gg.PNG)
 
+# How to use:
 this works with Chrome extension:
 Javascript Injector
 
-# How to use:
 1- activate extension:
 https://chrome.google.com/webstore/detail/javascript-injector/ejnccfcackblkelbafbolcpjfpcmbplg
 
