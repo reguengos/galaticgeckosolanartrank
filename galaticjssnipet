@@ -1,0 +1,20 @@
+fetch('https://assets.galacticgeckos.app/assets/t2r.json')
+.then(res => res.json())
+.then((out) => {
+  console.log('Checkout this JSON! ', out);
+var els = document.getElementsByClassName("card-title h5");
+
+Array.prototype.forEach.call(els, function(el) {
+
+replaced = el.textContent.replace("Galactic Gecko #","")
+idx = replaced
+token = out[idx];
+rank = token["rank"];
+el.textContent = "ID:"+replaced+"|rank:"+rank
+
+
+});
+})
+.catch(err => { throw err });
+
+
