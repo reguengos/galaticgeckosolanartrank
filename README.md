@@ -14,16 +14,18 @@ Javascript Injector
 1- activate extension:
 
 https://chrome.google.com/webstore/detail/javascript-injector/ejnccfcackblkelbafbolcpjfpcmbplg
-Kudos to the creator 🥇 : https://github.com/hex0cter/js-injector
+Kudos to the creator 🥇 : 
+https://github.com/hex0cter/js-injector
 
 2- Navigate to Solanart galatic gecko 🐱‍🐉
+
 https://solanart.io/collections/galacticgeckospacegarage
 
 3- activate and use extension!
 
 Paste the following code:⚡
 ```
-fetch('https://assets.galacticgeckos.app/assets/t2r.json')
+fetch('https://raw.githubusercontent.com/reguengos/galaticgeckosolanartrank/main/t2r.json')
 .then(res => res.json())
 .then((out) => {
   console.log('Checkout this JSON! ', out);
@@ -41,6 +43,7 @@ el.textContent = "ID:"+replaced+"|rank:"+rank
 });
 })
 .catch(err => { throw err });
+
 
 ```
 
